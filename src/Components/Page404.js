@@ -9,7 +9,7 @@ const Page404 = () => {
       <h1>Page Not Found</h1>
       <p>We're sorry,the page you requestcould not be found</p>
       <p>Please go back to the homepage</p>
-      <Link to="/"><button className='btn btn-outline-primary rounded-pill px-4'>Go Home</button></Link>
+      <Link to="/"><button className='btn btn-outline-primary rounded-pill px-5'>Go Home</button></Link>
     </div>
     </>
   )
