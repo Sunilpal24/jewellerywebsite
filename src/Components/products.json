@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "img": "image/product-img/b-1.jpg",
+    "name": "Woman",
+    "price": 3999,
+    "title": "Titanium Bracelet in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 2,
+    "img": "image/product-img/b-2.jpg",
+    "name": "Woman",
+    "price": 3599,
+    "title": "Titanium Bracelet in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 3,
+    "img": "image/product-img/b-3.jpg",
+    "name": "Woman",
+    "price": 4599,
+    "title": "Titanium Bracelet in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 4,
+    "img": "image/product-img/b-4.jpg",
+    "name": "Woman",
+    "price": 3899,
+    "title": "Titanium Bracelet in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 5,
+    "img": "image/product-img/r-1.jpg",
+    "name": "Woman",
+    "price": 2999,
+    "title": "Titanium Ring in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 6,
+    "img": "image/product-img/r-2.jpg",
+    "name": "Woman",
+    "price": 2599,
+    "title": "Titanium Ring in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 7,
+    "img": "image/product-img/r-3.jpg",
+    "name": "Woman",
+    "price": 3500,
+    "title": "Titanium Ring in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 8,
+    "img": "image/product-img/r-4.jpg",
+    "name": "Woman",
+    "price": 1999,
+    "title": "Titanium Ring in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 9,
+    "img": "image/product-img/e-1.jpg",
+    "name": "Woman",
+    "price": 5900,
+    "title": "Titanium Earings in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 10,
+    "img": "image/product-img/e-2.jpg",
+    "name": "Woman",
+    "price": 4399,
+    "title": "Titanium Earings in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 11,
+    "img": "image/product-img/e-3.jpg",
+    "name": "Woman",
+    "price": 5599,
+    "title": "Titanium Earings in ged palladiumfinish metal",
+    "amount": 1
+  },
+  {
+    "id": 12,
+    "img": "image/product-img/e-4.jpg",
+    "name": "Woman",
+    "price": 3499,
+    "title": "Titanium Earings in ged palladiumfinish metal",
+    "amount": 1
+  }
+]
