@@ -588,6 +588,14 @@ change navbar style on scroll
     .place{
         margin-top: -15%;
     }
+    .navbar-brand{
+        width: 60%;
+    }
+    .navbar-brand img{
+        width: 60%;
+        height: auto;
+        margin-right: 35%;
+    }
 }
 
 @media (max-width: 575px){
