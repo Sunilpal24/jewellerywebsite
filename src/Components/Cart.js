@@ -67,6 +67,8 @@ const Cart = () => {
           >
             Place Your Order
           </button>
+          
+          {/* payment modal */}
           <div
             className="modal fade "
             id="staticBackdrop"
@@ -214,7 +216,7 @@ const Cart = () => {
           </h4>
                     <div className="col-12">
                       <button className="btn btn-success col-12" type="submit">
-                        Add Card
+                        Payment
                       </button>
                     </div>
                   </form>

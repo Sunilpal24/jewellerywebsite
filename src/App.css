@@ -505,7 +505,10 @@ change navbar style on scroll
         display: grid;
         grid-template-columns: 70% 1fr;
     }
-    
+    .navbar-brand img{
+        width: 75%;
+        height: auto;
+    }
     
    
 }
@@ -585,6 +588,15 @@ change navbar style on scroll
     .place{
         margin-top: -15%;
     }
+    .navbar-brand{
+        width: 60%;
+    }
+    .navbar-brand img{
+        width: 60%;
+        height: auto;
+        margin-right: 35%;
+    }
+
 }
 
 @media (max-width: 575px){
