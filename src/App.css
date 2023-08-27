@@ -353,6 +353,12 @@ change navbar style on scroll
     line-height: 34px;
     text-transform: uppercase;
 }
+
+.products .nav-tabs .nav-link.active{
+    background-color: var(--white-color);
+    color: var(--black-color);
+}
+
 .products .product-info .cat-parent,
 .products .product-info i{
     font-size: 0.975rem;
@@ -505,11 +511,8 @@ change navbar style on scroll
         display: grid;
         grid-template-columns: 70% 1fr;
     }
-<<<<<<< HEAD
-    .navbar-brand img{
-=======
+
      .navbar-brand img{
->>>>>>> 815d3e0c01f72ca7ebf8c3a1f826febfada4076e
         width: 75%;
         height: auto;
     }
@@ -600,10 +603,6 @@ change navbar style on scroll
         height: auto;
         margin-right: 35%;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 815d3e0c01f72ca7ebf8c3a1f826febfada4076e
 }
 
 @media (max-width: 575px){

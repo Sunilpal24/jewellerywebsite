@@ -38,13 +38,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium Bracelet in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium Bracelet in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -71,13 +71,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium Bracelet in ged palladiumfinish metal</a>
+                        <Link to="/products">Titanium Bracelet in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -104,13 +104,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
-                        <a to="/WishList" className="wishlist">
+                        <span className="cat-parent">Women</span>
+                        <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
-                        </a>
+                        </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium Bracelet in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium Bracelet in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -137,13 +137,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium Bracelet in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium Bracelet in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -174,13 +174,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium ring in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium ring in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -207,13 +207,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium ring in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium ring in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -240,13 +240,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium ring in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium ring in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -273,13 +273,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium ring in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium ring in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -310,13 +310,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium earings in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium earings in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -343,13 +343,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium earrings in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium earrings in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -376,13 +376,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium earrings in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium earrings in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>
@@ -409,13 +409,13 @@ const BestSeller = () => {
                     </div>
                     <div className="product-info">
                       <div className="d-flex justify-content-between py-3">
-                        <a className="cat-parent">Women</a>
+                        <span className="cat-parent">Women</span>
                         <Link to="/WishList" className="wishlist">
                           <i className="fa fa-heart"></i>
                         </Link>
                       </div>
                       <h4 className="product-title">
-                        <a>Titanium earrings in ged palladiumfinish metal</a>
+                        <Link to="/Products">Titanium earrings in ged palladiumfinish metal</Link>
                       </h4>
                       <div className="product-price">
                         <ins><span className="money text-white">$300.00</span></ins>

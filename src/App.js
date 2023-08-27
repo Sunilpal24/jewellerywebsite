@@ -8,10 +8,12 @@ import Footer from './Components/Footer'
 import WishList from "./Components/WishList";
 import BlogPage from "./Components/BlogPage";
 import Page404 from "./Components/Page404";
+import ScrollToTop from "./Components/ScrollToTp"
 
 function App() {
   return (
     <Router>
+    <ScrollToTop/>
       <NavBar />
       <Routes>
         <Route path="/" element={<Home/>} />
@@ -19,7 +21,7 @@ function App() {
         <Route path="/BlogPage" element={<BlogPage/>} />
         <Route path="/Cart" element={<Cart/>} />
         <Route path="/WishList" element={<WishList/>} />
-        <Route path="/*" element={<Page404/>} />
+        <Route path="*" element={<Page404/>} />
       </Routes>
       <Footer/>
     </Router>
